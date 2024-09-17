@@ -1,0 +1,47 @@
+@font-face {
+    font-family: Montserrat-VariableFont_wght;
+    src: url(../fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+}
+
+.logo{
+    font-family: Montserrat-VariableFont_wght;
+    font-size: large;    
+}
+
+.col-lg-4{
+    text-align: right;
+}
+
+#air{
+    font-size: large;
+
+}
+
+#corpo{
+    max-width: 2000px;
+    max-height: 600px;
+    font-family: Montserrat-VariableFont_wght;
+}
+
+#card1{
+    font-family: Montserrat-VariableFont_wght;
+    color: #193655;
+    text-align: left;
+}
+
+#card2{
+    font-family: Montserrat-VariableFont_wght;
+    color: #193655;
+    text-align: left;
+}
+
+#card3{
+    font-family: Montserrat-VariableFont_wght;
+    color: #193655;
+    text-align: left;
+}
+
+#botaoprocurarnews{
+    border-color: #193655;
+    background-color: #193655;
+}
